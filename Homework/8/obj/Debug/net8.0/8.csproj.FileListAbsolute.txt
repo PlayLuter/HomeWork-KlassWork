@@ -1,0 +1,15 @@
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\8\bin\Debug\net8.0\8.exe
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\8\bin\Debug\net8.0\8.deps.json
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\8\bin\Debug\net8.0\8.runtimeconfig.json
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\8\bin\Debug\net8.0\8.dll
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\8\bin\Debug\net8.0\8.pdb
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\8\obj\Debug\net8.0\8.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\8\obj\Debug\net8.0\8.AssemblyInfoInputs.cache
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\8\obj\Debug\net8.0\8.AssemblyInfo.cs
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\8\obj\Debug\net8.0\8.csproj.CoreCompileInputs.cache
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\8\obj\Debug\net8.0\8.sourcelink.json
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\8\obj\Debug\net8.0\8.dll
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\8\obj\Debug\net8.0\refint\8.dll
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\8\obj\Debug\net8.0\8.pdb
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\8\obj\Debug\net8.0\8.genruntimeconfig.cache
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\8\obj\Debug\net8.0\ref\8.dll
