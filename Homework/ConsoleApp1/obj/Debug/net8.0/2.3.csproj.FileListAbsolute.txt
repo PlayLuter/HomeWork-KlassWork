@@ -1,0 +1,15 @@
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\ConsoleApp1\bin\Debug\net8.0\2.3.exe
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\ConsoleApp1\bin\Debug\net8.0\2.3.deps.json
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\ConsoleApp1\bin\Debug\net8.0\2.3.runtimeconfig.json
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\ConsoleApp1\bin\Debug\net8.0\2.3.dll
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\ConsoleApp1\bin\Debug\net8.0\2.3.pdb
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\ConsoleApp1\obj\Debug\net8.0\2.3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\ConsoleApp1\obj\Debug\net8.0\2.3.AssemblyInfoInputs.cache
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\ConsoleApp1\obj\Debug\net8.0\2.3.AssemblyInfo.cs
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\ConsoleApp1\obj\Debug\net8.0\2.3.csproj.CoreCompileInputs.cache
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\ConsoleApp1\obj\Debug\net8.0\2.3.sourcelink.json
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\ConsoleApp1\obj\Debug\net8.0\2.3.dll
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\ConsoleApp1\obj\Debug\net8.0\refint\2.3.dll
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\ConsoleApp1\obj\Debug\net8.0\2.3.pdb
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\ConsoleApp1\obj\Debug\net8.0\2.3.genruntimeconfig.cache
+Z:\Code\RGPY\UNITY\HomeWork\HomeWork-KlassWork\Homework\ConsoleApp1\obj\Debug\net8.0\ref\2.3.dll
